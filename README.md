@@ -2,7 +2,8 @@
 
 ## webpack系列
 - [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1)
-- [webpack使用优化（持续更新，欢迎补充）](https://github.com/lcxfs1991/blog/issues/2)
+- [webpack使用优化（基础篇）](https://github.com/lcxfs1991/blog/issues/2)
+- [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7)
  
 ## 性能优化系列
 - [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
