@@ -2,8 +2,8 @@
 
 ## react优化系列
 - [react移动端web优化](https://github.com/lcxfs1991/blog/issues/8)
-- [react移动端直出优化(coming song)]
-- [react移动端借助react-native优化(coming soon)]
+- [react移动端直出优化](coming song)
+- [react移动端借助react-native优化](coming soon)
 
 ## webpack系列
 - [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1)
