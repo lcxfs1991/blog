@@ -1,7 +1,7 @@
 # leehey's blog
 
 ## react优化系列
-- [react移动端web优化](https://github.com/lcxfs1991/blog/issues/8)
+- [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8)
 - react移动端直出优化-- (coming song)
 - react移动端借助react-native优化 -- (coming soon)
 
