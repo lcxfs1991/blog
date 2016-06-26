@@ -2,7 +2,7 @@
 
 ## react优化系列
 - [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8)
-- [简易版腾讯新闻React直出优化](https://github.com/lcxfs1991/blog/issues/10)
+- [版腾讯新闻React直出优化](https://github.com/lcxfs1991/blog/issues/10)
 - react移动端借助react-native优化 -- (coming soon)
 
 ## webpack系列
