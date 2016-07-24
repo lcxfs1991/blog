@@ -17,7 +17,7 @@
 
 ## 构建与编译系统
 - [babel到底将代码转换成什么鸟样？](https://github.com/lcxfs1991/blog/issues/9)
-- [gulp的流与任务管理系统](https://github.com/lcxfs1991/blog/issues/11)
+- [gulp4.0的流与任务管理系统](https://github.com/lcxfs1991/blog/issues/11)
 
 ## 业界展望
 - [这是前端最好的时代——论前端的“三化”建设](https://github.com/lcxfs1991/blog/issues/3)
