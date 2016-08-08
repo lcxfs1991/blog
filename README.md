@@ -19,5 +19,8 @@
 - [babel到底将代码转换成什么鸟样？](https://github.com/lcxfs1991/blog/issues/9)
 - [gulp4.0的流与任务管理系统 coming soon](https://github.com/lcxfs1991/blog/issues/11)
 
+## 前端基础知识
+- [前端跨域知识简介](https://github.com/lcxfs1991/blog/issues/12)
+
 ## 业界展望
 - [这是前端最好的时代——论前端的“三化”建设](https://github.com/lcxfs1991/blog/issues/3)
