@@ -4,6 +4,7 @@
 - [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8)
 - [腾讯新闻React同构直出优化实践](https://github.com/lcxfs1991/blog/issues/10)
 - react移动端借助react-native优化 -- (coming soon)
+- [Preact -- React的轻量解决方案](https://github.com/lcxfs1991/blog/issues/13)
 
 ## webpack系列
 - [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1)
