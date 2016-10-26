@@ -12,6 +12,7 @@
 - [webpack使用优化（基础篇）](https://github.com/lcxfs1991/blog/issues/2)
 - [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7)
 - [webpack2生成代码分析](https://github.com/lcxfs1991/blog/issues/14)
+- [webpack Performance: The Comprehensive Guide](https://github.com/lcxfs1991/blog/issues/15)
  
 ## 性能优化系列
 - [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
