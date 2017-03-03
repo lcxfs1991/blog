@@ -6,6 +6,7 @@
 - react移动端借助react-native优化 -- (coming soon)
 - [Preact -- React的轻量解决方案](https://github.com/lcxfs1991/blog/issues/13)
 - [手机 QQ React Web极致优化（iWeb2016北京站）](https://github.com/lcxfs1991/blog/blob/master/%E6%89%8B%E6%9C%BA%20QQ%20React%20Web%E6%9E%81%E8%87%B4%E4%BC%98%E5%8C%96.ppt?raw=true)
+- [从工程化角度讨论如何快速构建可靠React组件](https://github.com/lcxfs1991/blog/issues/18)
 
 ## webpack系列
 - [如何写一个webpack插件（一）](https://github.com/lcxfs1991/blog/issues/1)
