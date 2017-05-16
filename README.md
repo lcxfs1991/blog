@@ -32,5 +32,8 @@
 ## 前端基础知识
 - [前端跨域知识简介](https://github.com/lcxfs1991/blog/issues/12)
 
+## 源码分析
+- [requirejs 源码简析](https://github.com/lcxfs1991/blog/issues/20)
+
 ## 业界展望
 - [这是前端最好的时代——论前端的“三化”建设](https://github.com/lcxfs1991/blog/issues/3)
