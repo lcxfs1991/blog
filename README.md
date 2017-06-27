@@ -37,3 +37,6 @@
 
 ## 业界展望
 - [这是前端最好的时代——论前端的“三化”建设](https://github.com/lcxfs1991/blog/issues/3)
+
+## 技术大会
+- [腾讯 Web 前端大会<TFC2017 /> 分享浅析 -- 主会场篇](https://github.com/lcxfs1991/blog/issues/21)
