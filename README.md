@@ -45,4 +45,4 @@
 - [腾讯 Web 前端大会<TFC2017 /> 分享浅析 -- 主会场篇](https://github.com/lcxfs1991/blog/issues/21)
 
 ## 技术管理和职业发展
-- [要做一个软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
+- [要做软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
