@@ -51,3 +51,20 @@
 
 ## 技术管理和职业发展
 - [要做软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
+
+## 个人档案
+(ง •̀_•́)ง -----------------
+
+* 我是谁
+
+* 前Alloyteam成员
+
+* 现腾讯云高级工程师，专注于工程化，小程序服务
+
+* [Github：https://github.com/lcxfs1991](https://github.com/lcxfs1991)
+
+* [微博：https://www.weibo.com/leehkfs/](https://www.weibo.com/leehkfs/)
+
+* [知乎：https://www.zhihu.com/people/leehey/](https://www.zhihu.com/people/leehey/)
+
+
