@@ -20,6 +20,9 @@
 - [教你如何读webpack2中文文档](https://github.com/lcxfs1991/blog/issues/17)
 - [Deploy Using Travis-CI And Github Webhook — webpack doc as an example](https://github.com/lcxfs1991/blog/issues/19)
 
+### rollup
+- [Rollup + Karma 助你开发更快更小的前端类库](https://github.com/lcxfs1991/blog/issues/25)
+
 ### 自动化
 - [印记中文 & 腾讯云文档cdn + cos部署方案](https://github.com/lcxfs1991/blog/issues/22)
  
