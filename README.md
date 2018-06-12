@@ -22,6 +22,12 @@
 ### rollup
 - [Rollup + Karma 助你开发更快更小的前端类库](https://github.com/lcxfs1991/blog/issues/25)
 
+### babel
+- [babel到底将代码转换成什么鸟样？](https://github.com/lcxfs1991/blog/issues/9)
+
+### gulp
+- [gulp4.0的流与任务管理系统 coming soon](https://github.com/lcxfs1991/blog/issues/11)
+
 ### 自动化
 - [印记中文 & 腾讯云文档cdn + cos部署方案](https://github.com/lcxfs1991/blog/issues/22)
  
@@ -30,9 +36,6 @@
 - [性能优化三部曲之二——通用纯前端优化首屏时间](https://github.com/lcxfs1991/blog/issues/5)
 - [性能优化三部曲之三——Node直出让你的网页秒开](https://github.com/lcxfs1991/blog/issues/6)
 
-## 构建与编译系统
-- [babel到底将代码转换成什么鸟样？](https://github.com/lcxfs1991/blog/issues/9)
-- [gulp4.0的流与任务管理系统 coming soon](https://github.com/lcxfs1991/blog/issues/11)
 
 ## 前端基础知识
 - [前端跨域知识简介](https://github.com/lcxfs1991/blog/issues/12)
