@@ -36,6 +36,9 @@
 - [性能优化三部曲之二——通用纯前端优化首屏时间](https://github.com/lcxfs1991/blog/issues/5)
 - [性能优化三部曲之三——Node直出让你的网页秒开](https://github.com/lcxfs1991/blog/issues/6)
 
+## AI服务
+- [如何用Node调用腾讯AI图像服务](https://github.com/lcxfs1991/blog/issues/26)
+
 
 ## 前端基础知识
 - [前端跨域知识简介](https://github.com/lcxfs1991/blog/issues/12)
