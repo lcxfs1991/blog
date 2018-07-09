@@ -54,6 +54,7 @@
 
 ## 技术管理和职业发展
 - [要做软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
+- [技术人初尝带队作战 -- 指导一次腾讯 SNG MINI 项目](https://github.com/lcxfs1991/blog/issues/27)
 
 ## 个人档案
 (ง •̀_•́)ง -----------------
