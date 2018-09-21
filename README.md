@@ -3,6 +3,7 @@
 ## 小程序系列
 - [小程序的全栈开发新时代](https://github.com/lcxfs1991/blog/issues/28)
 - [云开发初探 —— 更简便的小程序开发模式丨掘金开发者大会](https://github.com/lcxfs1991/blog/issues/29)
+- [小程序·云开发的云函数路由高级玩法](https://github.com/lcxfs1991/blog/issues/30)
 
 ## react优化系列
 - [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8)
