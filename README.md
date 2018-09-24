@@ -1,5 +1,7 @@
 # leehey's blog
 
+> 李成熙，腾讯云高级工程师。2014年度毕业加入腾讯AlloyTeam，先后负责过QQ群、花样直播、腾讯文档等项目。2018年加入腾讯云云开发团队。专注于性能优化、工程化和小程序服务。[微博](https://weibo.com/leehkfs/) | [知乎](https://www.zhihu.com/people/leehey/) | [Github](https://github.com/lcxfs1991)
+
 ## 小程序系列
 - [小程序的全栈开发新时代](https://github.com/lcxfs1991/blog/issues/28)
 - [云开发初探 —— 更简便的小程序开发模式丨掘金开发者大会](https://github.com/lcxfs1991/blog/issues/29)
@@ -60,20 +62,3 @@
 ## 技术管理和职业发展
 - [要做软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
 - [技术人初尝带队作战 -- 指导一次腾讯 SNG MINI 项目](https://github.com/lcxfs1991/blog/issues/27)
-
-## 个人档案
-(ง •̀_•́)ง -----------------
-
-* 我是谁
-
-* 前Alloyteam成员
-
-* 现腾讯云高级工程师，专注于工程化，小程序服务
-
-* [Github：https://github.com/lcxfs1991](https://github.com/lcxfs1991)
-
-* [微博：https://www.weibo.com/leehkfs/](https://www.weibo.com/leehkfs/)
-
-* [知乎：https://www.zhihu.com/people/leehey/](https://www.zhihu.com/people/leehey/)
-
-
