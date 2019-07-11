@@ -2,6 +2,9 @@
 
 > 李成熙，腾讯云高级工程师。2014年度毕业加入腾讯AlloyTeam，先后负责过QQ群、花样直播、腾讯文档等项目。2018年加入腾讯云云开发团队。专注于性能优化、工程化和小程序服务。[微博](https://weibo.com/leehkfs/) | [知乎](https://www.zhihu.com/people/leehey/) | [Github](https://github.com/lcxfs1991)
 
+## Severless 系列
+- [不花钱就可以给企业微信做个提醒机器人](https://github.com/lcxfs1991/blog/issues/32)
+
 ## 小程序系列
 - [小程序的全栈开发新时代](https://github.com/lcxfs1991/blog/issues/28)
 - [云开发初探 —— 更简便的小程序开发模式丨掘金开发者大会](https://github.com/lcxfs1991/blog/issues/29)
