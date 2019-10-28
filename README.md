@@ -1,6 +1,6 @@
 # leehey's blog
 
-> 李成熙，腾讯云高级工程师。2014年度毕业加入腾讯AlloyTeam，先后负责过QQ群、花样直播、腾讯文档等项目。2018年加入腾讯云云开发团队。2019年加入Shopee金融前端团队任一线前端Leader。专注于性能优化、工程化和小程序服务。[微博](https://weibo.com/leehkfs/) | [知乎](https://www.zhihu.com/people/leehey/) | [Github](https://github.com/lcxfs1991)
+> 李成熙，Shopee金融前端团队Leader。2014年度毕业加入腾讯AlloyTeam，先后负责过QQ群、花样直播、腾讯文档等项目。2018年加入腾讯云云开发团队。2019年加入Shopee金融前端团队任一线前端Leader。专注于性能优化、工程化和小程序服务。[微博](https://weibo.com/leehkfs/) | [知乎](https://www.zhihu.com/people/leehey/) | [Github](https://github.com/lcxfs1991)
 
 ## Severless 系列
 - [不花钱就可以给企业微信做个提醒机器人](https://github.com/lcxfs1991/blog/issues/32)
