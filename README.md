@@ -41,6 +41,7 @@
 
 ### 自动化
 - [印记中文 & 腾讯云文档cdn + cos部署方案](https://github.com/lcxfs1991/blog/issues/22)
+- [如何通过 Github Action 薅腾讯云云开发的羊毛](https://github.com/lcxfs1991/blog/issues/34)
  
 ## 性能优化系列
 - [性能优化三部曲之一——构建篇](https://github.com/lcxfs1991/blog/issues/4)
