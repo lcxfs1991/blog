@@ -68,3 +68,4 @@
 - [要做软件工程师，而不是前端工程师](https://github.com/lcxfs1991/blog/issues/24)
 - [技术人初尝带队作战 -- 指导一次腾讯 SNG MINI 项目](https://github.com/lcxfs1991/blog/issues/27)
 - [互联网技术人在快速发展团队的独当一面之道——Shopee半年记](https://github.com/lcxfs1991/blog/issues/33)
+- [技术人关于技术与业务突破瓶颈的一些思考——Shopee 年半记](https://github.com/lcxfs1991/blog/issues/35)
