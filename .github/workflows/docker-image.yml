@@ -1,0 +1,69 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "cn" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    
+    - name: Checkout Github Repo
+      uses: actions/checkout@v4
+      with:
+        # submodules: recursive
+        submodules: 'true'
+        token: ${{ secrets.CHECKOUT_REPO_TOKEN }}
+
+    - name: Set Branch Name
+      run: echo "BRANCH_NAME=$(echo $GITHUB_REF | sed 's/refs\/heads\///')" >> $GITHUB_ENV
+
+    - name: Set Timestamp
+      run: echo "TIMESTAMP=$(date +%s%3N)" >> $GITHUB_ENV
+
+    - name: Fetch default.conf
+      uses: valitydev/action-download-file@v1
+      with:
+          url: https://raw.githubusercontent.com/lcxfs1991/docschina-deployment/main/docschina-blog/default.conf
+          target-path: .
+
+    - name: Fetch Dockerfile
+      uses: valitydev/action-download-file@v1
+      with:
+          url: https://raw.githubusercontent.com/lcxfs1991/docschina-deployment/main/docschina-blog/Dockerfile
+          target-path: .
+      
+
+    - name: Build docs
+      run: yarn && yarn build
+
+    - name: Docker build
+      uses: docker/setup-buildx-action@v3
+
+    - name: Login to Docker Hub
+      uses: docker/login-action@v3
+      with:
+        registry: ccr.ccs.tencentyun.com
+        username: ${{ secrets.DOCKER_USERNAME }}
+        password: ${{ secrets.DOCKER_TOKEN }}
+
+    - name: Build and push
+      uses: docker/build-push-action@v5
+      with:
+        context: .
+        push: true
+        platforms: linux/amd64
+        tags: ccr.ccs.tencentyun.com/docschina/docschina-blog:${{ env.BRANCH_NAME }}-${{ env.TIMESTAMP }}
+
+    - name: Deployment
+      uses: TencentCloud/cli-action@v1
+      with:
+        secret_id: ${{ secrets.SECRET_ID }}
+        secret_key: ${{ secrets.SECRET_KEY }}
+        region: ${{ secrets.LIGHTHOUSE_REGION }}
+        commands: tat InvokeCommand --cli-unfold-argument --region ap-shanghai --CommandId cmd-boc4aaiw --InstanceIds lhins-nkwfootc --Parameters '{"deployment":"docschina-blog","image":"ccr.ccs.tencentyun.com/docschina/docschina-blog:${{ env.BRANCH_NAME }}-${{ env.TIMESTAMP }}"}'
+        output_format: json
