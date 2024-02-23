@@ -60,6 +60,13 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    [
+      "@gracefullight/docusaurus-plugin-baidu-analytics",
+      { siteId: "751ac9f8cabcf92022bc300cfc78245a" },
+    ],
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
@@ -131,6 +138,9 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
   } satisfies Preset.ThemeConfig,
+  // scripts: [
+  //   'https://cpro.baidustatic.com/cpro/ui/cm.js',
+  // ],
 };
 
 export default config;
