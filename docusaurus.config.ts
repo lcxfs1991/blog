@@ -33,22 +33,26 @@ const config: Config = {
     [
       'classic',
       {
-        // docs: {
-        //   sidebarPath: './sidebars.ts',
-        //   // Please change this to your repo.
-        //   // Remove this to remove the "edit this page" links.
-        //   editUrl:
-        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        // },
-        docs: false, 
-        blog: {
-          showReadingTime: true,
+        docs: {
+          sidebarPath: './sidebars.ts',
+          routeBasePath: '/content/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          routeBasePath: '/content/',
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        // docs: false, 
+        blog: false,
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   routeBasePath: '/content/',
+        //   editUrl:
+        //     'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        //   blogSidebarTitle: 'All posts',
+        //   blogSidebarCount: 'ALL',
+        // },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -77,7 +81,8 @@ const config: Config = {
           label: '印记中文官网',
           position: 'left',
         },
-        {to: '/blog/content/', label: 'heyli专栏', position: 'left'},
+        // {to: '/blog/doc/', label: 'heyli专栏doc', position: 'left'},
+        {to: '/blog/content/management', label: 'heyli专栏', position: 'left'},
         {
           href: 'https://github.com/lcxfs1991/blog',
           label: 'GitHub',
