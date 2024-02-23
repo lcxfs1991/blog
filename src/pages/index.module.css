@@ -24,17 +24,16 @@
 
 .wrapper {
   padding: 0 300px;
-  /* text-align: center; */
+}
 
-  .avatar {
-    border-radius: 50%;
-  }
-  
-  .blockquote {
-    margin-top: 20px;
-    padding: 0 20px;
-    color: #656d76;
-    border-left: 0.25em solid #d0d7de;
-    text-align: left;
-  }
+.avatar {
+  border-radius: 50%;
+}
+
+.blockquote {
+  margin-top: 20px;
+  padding: 0 20px;
+  color: #656d76;
+  border-left: 0.25em solid #d0d7de;
+  text-align: left;
 }
