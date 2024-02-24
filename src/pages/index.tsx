@@ -4,9 +4,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
-// import UnionAd from 'union-ad-react';
-
 import styles from './index.module.css';
+import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
+import Ads from '../components/Ads';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -46,7 +46,7 @@ export default function Home(): JSX.Element {
             2020年-2022年回归腾讯文档，单人文字品类技术负责人
             &nbsp;<a href="https://weibo.com/leehkfs/" target='_blank'>微博</a> | <a href="https://www.zhihu.com/people/leehey/" target='_blank'>知乎</a> | <a href="https://github.com/lcxfs1991" target='_blank'>Github</a>
           </blockquote>
-          {/* <UnionAd id="u6954954"></UnionAd> */}
+          <Ads />
         </div> 
       </main>
     </Layout>
